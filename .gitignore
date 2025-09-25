@@ -1,4 +1,6 @@
-/*
-!.gitignore
-!/Assets/Scenes/
-!/Assets/Scripts/
+# Ignore everything
+/**
+
+# Allow the path to the directory you want to keep
+!/Assets/**
+!/.gitignore
