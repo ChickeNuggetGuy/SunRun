@@ -1,2 +1,4 @@
-*/
-!Assets/
+/*
+!.gitignore
+!/Assets/Scenes/
+!/Assets/Scripts/
