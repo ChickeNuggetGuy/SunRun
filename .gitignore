@@ -1,0 +1,10 @@
+# Ignore everything
+*
+# But not these files
+!.gitignore
+
+# Don't ignore the Assets/Scripts directory
+!Assets/Scripts/
+
+!Assets/Prefabs/
+!Assets/Data/
